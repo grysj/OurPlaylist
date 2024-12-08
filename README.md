@@ -1,4 +1,4 @@
-# OURPLAYLIST
+# OurPlayList
 
 ### Key functionalities
 - Starting page ![Zrzut ekranu 2024-12-08 035134](https://github.com/user-attachments/assets/4fb3396b-3c4e-40f6-9442-608c4c0fca80)
